@@ -1,0 +1,25 @@
+# load :  
+mnistm_imgs: hw2_data/digits/mnistm/data
+mnistm_label: hw2_data/digits/mnistm/train.csv
+svhn_imgs: hw2_data/digits/svhn/data
+svhn_label: hw2_data/digits/svhn/train.csv
+
+# training 
+epoch: 32
+batch_size: 256
+lr: 0.001
+p_drop: 0.2
+num_timesteps: 1000
+gamma: 0.7
+
+# cuda
+device :  'cuda' 
+    
+# train_step saving : 
+model_save_dir: model_ckpt/p1/round15_n_feat64_time_1000_p_02_test_new_masking
+model_save_name: round15.pth
+p1_output_save_dir: Output_folder/round15
+
+# sample_step saving 
+num_intermediate_product: 10
+num_each_condition: 1

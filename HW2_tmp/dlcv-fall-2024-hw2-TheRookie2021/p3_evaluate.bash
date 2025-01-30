@@ -1,0 +1,1 @@
+python3 evaluation/grade_hw2_3.py --json_path hw2_data/textual_inversion/input.json --input_dir hw2_data/textual_inversion --output_dir p3_testing_output_testingggg

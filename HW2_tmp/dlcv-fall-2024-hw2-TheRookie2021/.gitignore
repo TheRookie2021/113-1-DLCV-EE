@@ -1,0 +1,18 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specified below
+
+
+*png
+*jpg
+*.pyc
+*.pyo
+*.bin
+*.pth
+
+output/*
+hw2_data/*
+playground/*
+model_ckpt/*
+HW2/*
+src/*
+stable-diffusion/*

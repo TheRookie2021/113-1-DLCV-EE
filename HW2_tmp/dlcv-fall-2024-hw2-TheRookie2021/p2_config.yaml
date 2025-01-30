@@ -1,0 +1,12 @@
+# path
+input_folder : "hw2_data/face/noise"
+model_path : "hw2_data/face/UNet.pt"
+output_folder : "p2"
+
+# num setting 
+time : 1000
+batch_size: 10
+ddim_timesteps: 50
+eta: 0.0
+
+eta_step : 4
