@@ -1,0 +1,16 @@
+__pycache__/
+CODA/
+CODA-LM/
+test/
+val/
+*.zip
+*.json
+
+# *.ipynb
+.txt
+!few_shot/**/*.json
+dlcv_final_dataset/*
+finetune_llava-1.5-7b-hf_lora*/*
+wandb/*
+evaluate.sh
+data/*
