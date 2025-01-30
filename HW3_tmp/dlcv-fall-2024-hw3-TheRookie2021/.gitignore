@@ -1,0 +1,12 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specified below
+
+hw3_data/*
+*jpg
+*png
+LLaVA/*
+testing_output/*
+example*
+p2_models/*
+evaluate*
+ignore/*
