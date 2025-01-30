@@ -1,0 +1,13 @@
+dataset/*
+example/*
+output/*
+HW4/*
+gaussian-splatting/*.pyc
+gaussian-splatting/.vscode
+gaussian-splatting/output
+gaussian-splatting/build
+gaussian-splatting/diff_rasterization/diff_rast.egg-info
+gaussian-splatting/diff_rasterization/dist
+gaussian-splatting/tensorboard_3d
+gaussian-splatting/screenshots
+gaussian-splatting/submodules
